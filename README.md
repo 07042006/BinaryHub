@@ -1,2 +1,1 @@
-# BinaryHub
-Projeto de estudos
+
